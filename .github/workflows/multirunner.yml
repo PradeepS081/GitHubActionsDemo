@@ -1,4 +1,4 @@
-name: Demo Workflow
+name: Demo MultiRunner Workflow
 
 on: [push]
 
